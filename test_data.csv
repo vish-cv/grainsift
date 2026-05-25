@@ -1,0 +1,54 @@
+feedback,date,source
+"The product arrived damaged and the packaging was completely crushed. This is unacceptable for a premium product.",2024-01-05,email
+"I've been waiting three weeks for my order and still no update. Please help me track my shipment.",2024-01-06,twitter
+"Your customer service team was incredibly helpful and resolved my issue within minutes. Very impressed!",2024-01-07,email
+"The mobile app keeps crashing every time I try to checkout. This has been happening for two weeks.",2024-01-08,app_review
+"Billing me twice for the same order. Please refund the duplicate charge immediately.",2024-01-09,email
+"Great product quality, exactly as described. Fast shipping too. Will definitely order again.",2024-01-10,website
+"My account got locked out after the latest update and I cannot reset my password. Tech support not responding.",2024-01-11,email
+"Would love to see a dark mode option in the app. Also bulk export would save me a lot of time.",2024-01-12,app_review
+"Refund request for order #44821 has been pending for 12 days. No one is getting back to me.",2024-01-13,email
+"The subscription auto-renewed without any warning email. I want to cancel and get a refund for this month.",2024-01-14,website
+"Delivery driver left the package in the rain. Everything inside was soaked and ruined.",2024-01-15,twitter
+"I love the new product line! The quality has really improved compared to last year.",2024-01-16,email
+"Please contact me at john.smith@example.com or call me at 555-867-5309 to discuss my refund.",2024-01-17,email
+"Login page throws a 500 error on Chrome version 120. Works fine on Firefox. Please fix ASAP.",2024-01-18,app_review
+"My package was delivered to the wrong address again. This is the second time this has happened.",2024-01-19,email
+"The new checkout flow is much smoother. Great improvement over the old 5-step process.",2024-01-20,website
+"I need to speak to someone at 192.168.1.50 about my account. Server keeps timing out.",2024-01-21,email
+"Product description says gluten-free but the actual label says it contains wheat. Very misleading.",2024-01-22,email
+"Waiting on hold for 45 minutes then got disconnected. This is terrible service.",2024-01-23,phone
+"My SSN 123-45-6789 was somehow in your system incorrectly. Please update your records.",2024-01-24,email
+"The loyalty points I earned last quarter have all disappeared from my account.",2024-01-25,app_review
+"Please add a wishlist feature so I can save items for later without adding to cart.",2024-01-26,website
+"Dr. Johnson at your support team was excellent and really went above and beyond to help.",2024-01-27,email
+"Received the wrong size even though I clearly selected Large in my order. Need exchange.",2024-01-28,email
+"App shows error code 404 on the product detail pages since yesterday's update.",2024-01-29,app_review
+"I live at 456 Oak Avenue and my deliveries keep going to the neighbor instead of my address.",2024-01-30,email
+"The product looks nothing like the photos. Colors are completely different and quality is much worse.",2024-02-01,website
+"Subscription cancelled but still being charged. Credit card company has been notified.",2024-02-02,email
+"The search feature is completely broken. Searching for anything returns zero results.",2024-02-03,app_review
+"Really happy with the customer support chat. Quick response and the agent was knowledgeable.",2024-02-04,chat
+"I've been a customer for 5 years and this is the worst experience I've ever had with shipping.",2024-02-05,email
+"Le produit est arrivé cassé et le service client ne répond pas. Très déçu de cette expérience.",2024-02-06,email
+"Das Produkt ist nicht wie beschrieben. Ich möchte eine Rückerstattung für diese Bestellung.",2024-02-07,website
+"The warehouse keeps sending me items from the wrong seller. Quality control is clearly broken.",2024-02-08,email
+"Payment page is not loading on Safari. I cannot complete my purchase and this is very frustrating.",2024-02-09,app_review
+"Please add an API so we can integrate your service with our internal tools. Many business customers need this.",2024-02-10,email
+"The product arrived damaged and the packaging was completely crushed. This is unacceptable for a premium product.",2024-01-05,email
+"Damaged item again, box was smashed and product inside was broken beyond repair when it arrived.",2024-02-11,email
+"Your returns process is too complicated. Should be one click not a 7-step form.",2024-02-12,website
+"I ordered a birthday gift a month in advance and it still hasn't arrived. My friend's birthday was yesterday.",2024-02-13,email
+"The filter options in the product catalog are almost useless. Need price range and brand filters urgently.",2024-02-14,app_review
+"I cannot log in since you changed the authentication system. Reset password emails are not arriving.",2024-02-15,email
+"Got charged a shipping fee even though my order was over the free shipping threshold. Please refund.",2024-02-16,website
+"Mr. Williams from your billing department called me last week but I cannot reach him again.",2024-02-17,phone
+"Five star service! My issue was resolved in under an hour and the agent followed up the next day.",2024-02-18,email
+"The product quality has gone downhill since you changed suppliers. Not renewing my subscription.",2024-02-19,email
+"Please make the font size larger in the app. Very hard to read on smaller screens.",2024-02-20,app_review
+"Order cancelled without any explanation or notification. No refund received either.",2024-02-21,email
+"ok",2024-02-22,website
+"",2024-02-23,email
+"Great",2024-02-24,twitter
+"Estoy muy insatisfecho con mi pedido. El producto llegó tarde y estaba en mal estado.",2024-02-25,email
+"The integration with Shopify broke after the latest update. Orders are not syncing anymore.",2024-02-26,email

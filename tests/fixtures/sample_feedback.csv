@@ -1,0 +1,26 @@
+feedback,date,source
+"The app keeps crashing whenever I try to open the checkout page. This is extremely frustrating and I've lost two orders because of it.",2024-01-15,app_store
+"Love the new dashboard design! It's so much cleaner and easier to navigate.",2024-01-16,nps_survey
+"Billing is a mess. I was charged twice for the same subscription and support took 5 days to respond.",2024-01-16,support_ticket
+"Delivery was super fast, arrived in 2 days instead of the expected 5. Really impressed!",2024-01-17,app_store
+"The search feature doesn't work on mobile. I type something and nothing shows up.",2024-01-17,app_store
+"Can you add dark mode? My eyes hurt when I use the app at night.",2024-01-18,nps_survey
+"App crashed again. Third time this week. I'm switching to a competitor if this doesn't get fixed.",2024-01-18,app_store
+"Great product overall. The onboarding flow is a bit confusing but once you figure it out, it's solid.",2024-01-19,nps_survey
+"My refund hasn't processed after 3 weeks. Opened 4 tickets. No response. This is unacceptable.",2024-01-19,support_ticket
+"The notifications are broken on Android. I'm not getting any alerts for new messages.",2024-01-20,app_store
+"Checkout experience is seamless. Saved my card details and it's one-tap now. Love it.",2024-01-20,nps_survey
+"Why is the app 500MB? Way too large for what it does. Please optimize.",2024-01-21,app_store
+"I accidentally hit the delete button and lost all my data. There should be a confirmation prompt.",2024-01-21,support_ticket
+"The filter options on the product page are really helpful. Makes finding things so much easier.",2024-01-22,nps_survey
+"App crashes when I rotate my screen. iOS 17, iPhone 14 Pro.",2024-01-22,app_store
+"मुझे यह ऐप बहुत पसंद है। बहुत अच्छा काम करता है।",2024-01-23,app_store
+"Ok",2024-01-23,nps_survey
+"Support team was incredibly helpful. Resolved my issue in under 10 minutes. 5 stars!",2024-01-24,support_ticket
+"The price is too high compared to competitors. I'm considering cancelling my subscription.",2024-01-24,nps_survey
+"Payment failed three times but I could see money was deducted. Scary experience.",2024-01-25,app_store
+"Dark mode would be amazing. Please add it soon. Also the font is a bit small for me.",2024-01-25,nps_survey
+"The app is great for the most part but I wish the search was smarter. Sometimes I search for something obvious and it gives me irrelevant results.",2024-01-26,app_store
+"Order tracking is broken. Shows my order as pending even though it arrived yesterday.",2024-01-26,app_store
+"test",2024-01-27,nps_survey
+"john.doe@example.com keeps getting reset when I log in. Please fix this account issue.",2024-01-27,support_ticket

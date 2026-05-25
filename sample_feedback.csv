@@ -1,0 +1,51 @@
+feedback,date,source
+"App crashes every time I try to upload a photo. Completely unusable.",2024-11-01,app_store
+"Billing charged me twice this month. Still waiting for a refund after 2 weeks.",2024-11-02,email
+"Search results are completely irrelevant. Searching 'blue shoes' shows red bags.",2024-11-02,app_store
+"Love the new dark mode! Much easier on the eyes during night sessions.",2024-11-03,twitter
+"The app froze and I lost 30 minutes of work. This is unacceptable.",2024-11-03,app_store
+"Cancellation process is confusing. Took me 20 minutes to find the option.",2024-11-04,intercom
+"Filters on the search page don't stick after refresh. Very frustrating.",2024-11-04,app_store
+"Your customer support team was incredibly helpful resolving my issue!",2024-11-05,email
+"Why is my invoice showing a charge for a plan I downgraded from last month?",2024-11-05,intercom
+"The new onboarding flow is much cleaner. Got set up in under 5 minutes.",2024-11-06,app_store
+"Push notifications stopped working after the latest update.",2024-11-06,app_store
+"Can you add CSV export for the reports? Really need this for my workflow.",2024-11-07,intercom
+"Logged in and all my saved data was gone. Absolutely terrified. Please help.",2024-11-07,email
+"Great product overall. Minor UI quirk: the back button sometimes skips a screen.",2024-11-08,app_store
+"Payment failed three times. Card is definitely valid — works everywhere else.",2024-11-08,app_store
+"Dashboard loads so slowly on mobile. Took 12 seconds on WiFi.",2024-11-09,app_store
+"Feature request: allow bulk editing of multiple items at once.",2024-11-09,intercom
+"App keeps asking me to re-login even though I selected 'remember me'.",2024-11-10,app_store
+"Refund was processed quickly. Appreciate the fast turnaround!",2024-11-10,email
+"The tutorial videos are helpful but some are outdated for the new UI.",2024-11-11,intercom
+"Crash on startup after iOS 18 update. Tried reinstalling, same issue.",2024-11-11,app_store
+"Price increased without any notice. Found out when my card was charged.",2024-11-12,twitter
+"Search autocomplete is amazing now. Saves so much time finding things.",2024-11-12,app_store
+"Two-factor authentication is broken. Never receive the SMS code.",2024-11-13,email
+"Would love a calendar view for scheduling. The list view gets overwhelming.",2024-11-13,intercom
+"App is draining battery significantly faster since the v3.2 update.",2024-11-14,app_store
+"Signed up for annual plan but was charged monthly rate. Please fix.",2024-11-14,email
+"The collaboration features work seamlessly. My whole team is now onboard.",2024-11-15,intercom
+"Random 500 errors when saving. Happens about 1 in 5 times.",2024-11-15,app_store
+"Dark mode colors look washed out on OLED screens. Needs adjustment.",2024-11-16,app_store
+"Cannot delete my account. The delete button does nothing.",2024-11-16,intercom
+"Onboarding checklist was a great idea — helped me discover features I'd missed.",2024-11-17,app_store
+"App crashes when I try to share a file larger than 10MB.",2024-11-17,app_store
+"Invoice PDF is completely blank when downloaded on Windows.",2024-11-18,email
+"Search now supports boolean operators? That's a game-changer for power users.",2024-11-18,twitter
+"Stuck in an infinite loading loop on the checkout page. Can't complete purchase.",2024-11-19,app_store
+"Subscription renewed even though I cancelled 2 weeks ago. Need a refund.",2024-11-19,email
+"The offline mode is a lifesaver for commuters. Works perfectly.",2024-11-20,app_store
+"Keyboard shortcuts would make this so much faster to use on desktop.",2024-11-20,intercom
+"App shows wrong currency for my region. Displays USD but should be EUR.",2024-11-21,app_store
+"Completely lost my streak because the app didn't sync properly.",2024-11-21,app_store
+"Integration with Slack works great. Notifications are timely and useful.",2024-11-22,intercom
+"Cannot attach files in the in-app chat. The button does nothing.",2024-11-22,app_store
+"Very disappointed with the response time from support — 5 days and counting.",2024-11-23,email
+"New widget on the home screen is beautiful. Really polished feel.",2024-11-23,app_store
+"App crashes specifically when switching between portrait and landscape mode.",2024-11-24,app_store
+"I was double charged for two consecutive months. This needs urgent attention.",2024-11-24,email
+"The data export is missing half the fields we actually need.",2024-11-25,intercom
+"Performance on older Android devices is terrible. My phone becomes unusable.",2024-11-25,app_store
+"Filtering by date range works perfectly now. Whatever you fixed, thank you!",2024-11-26,app_store
